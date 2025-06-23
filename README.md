@@ -1,3 +1,7 @@
+> ⚠️ **Note:** This is the original, independently developed version of this project.
+>
+> A fork of this project is now maintained by the Grill Lab for their own use and development needs.
+
 # mygeneapp
 
 A Python tool for querying and organizing gene-related data from WormBase. This app retrieves gene descriptions, protein homology (BLASTp), phenotypes, and strain information, then compiles the results into a structured Excel workbook.
