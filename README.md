@@ -59,3 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Jonathan Amezquita**  
 GitHub: [@Jamezquita1](https://github.com/Jamezquita1)
+
+## Acknowledgments
+
+Developed during PhD research at University of Washington/Seattle Children's Research Institute in the Grill Lab.
